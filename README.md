@@ -39,7 +39,7 @@ initial state and can accept a series of commands to change its orientation, sol
 
 **Satellite uses Receiver (Command Pattern)**
 
-**Interface**
+**Interface:**
 
 **Command**
 
@@ -66,12 +66,12 @@ initial state and can accept a series of commands to change its orientation, sol
 
 ![image](https://github.com/user-attachments/assets/96156038-7097-445d-ad30-54ea283f46ca)
 
-### Collect Data
+### Collect Data 
 
 ![image](https://github.com/user-attachments/assets/94d09699-e07a-4123-8997-3df9ca9389d8)
 
 
-### Status
+### Status is used to display details about orientation,panels(active/inactive) and collected data
 
 ![image](https://github.com/user-attachments/assets/e7f2a842-6dae-462a-a3db-a5262d441464)
 
