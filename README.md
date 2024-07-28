@@ -79,4 +79,10 @@ initial state and can accept a series of commands to change its orientation, sol
 
 ![image](https://github.com/user-attachments/assets/d4abcedc-406a-43bc-91b4-b1c680f2af38)
 
-## I have also done Smart Office Facility Management 
+## I have also done Smart Office Facility Management with database connection
+**I request you to look into it**
+**https://github.com/Harish3023/Smartoffice.git**
+
+##Contact :
+For any questions or suggestions, please contact me at [harish.s3023@gmail.com].
+
